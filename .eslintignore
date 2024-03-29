@@ -1,0 +1,3 @@
+{
+    "ignorePatterns": ["src/ligs/ws-transport/*.ts"]
+}
